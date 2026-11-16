@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+/geoscience-paper-writing/
+skills/geoscience-paper-writing/references/catalog/
+**/references/corpus-profile.md
+*.sqlite
+*.sqlite3
+*.bib
+*.ris
+*.pdf
+.geoscience-writing/

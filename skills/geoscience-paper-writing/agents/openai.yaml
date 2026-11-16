@@ -1,0 +1,4 @@
+interface:
+  display_name: 油气地学论文写作
+  short_description: 按研究问题和目标语言选择六个地学论文写作技能，可选使用本地Zotero文献库。
+  default_prompt: 使用 $geoscience-paper-writing 根据我的研究问题和目标语言选择合适的写作技能。
