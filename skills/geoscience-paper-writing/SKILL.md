@@ -23,6 +23,6 @@ description: 面向油气地学研究者的科技论文写作总入口。用于�
 
 ## 共享资源
 
-各入口会要求读取 [workflow.md](references/workflow.md)，再按任务加载领域和目标语言规范。写作中优先使用作者提供的数据和有权访问的文献；不默认Nature风格、不限制期刊家族、不预设结果。
+各入口先读 [共用写作工作流](references/workflow.md)，再读对应领域和语言指南。用作者数据和有权访问的文献支持主张，按目标期刊规范写作。
 
 文献检索与更新读 [zotero.md](references/zotero.md)。本地只读索引助手为 [zotero_catalog.py](scripts/zotero_catalog.py)，支持分类刷新与检索，缓存只保存在用户本机且默认不随仓库分发。索引是可刷新快照，不代表已读全文，也不会训练模型参数。
